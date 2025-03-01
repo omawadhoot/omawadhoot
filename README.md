@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Awadhoot</h1>
 <h3 align="center">A passionate Unity developer</h3>
 
-- 🔭 I’m currently working on **Homewise Vision**
+- 🔭 I’m currently working on **Unity Projects**
 
 - 🌱 I’m currently learning **ReactJS , C#**
 
