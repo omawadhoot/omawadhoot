@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unity Projects**
 
-- 🌱 I’m currently learning **ReactJS , C#**
+- 🌱 I’m currently learning **ReactJS , Spring Boot**
 
 - 💬 Ask me about **Unity3D and Game Development**
 
