@@ -8,9 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--awadhoot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awadhoot/)
 [![Email](https://img.shields.io/badge/Email-omawadhoot18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://omawadhoot.me/assets/Om-Awadhoot-Resume.pdf)
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=32&duration=2000&pause=800&color=BD93F9&center=true&vCenter=true&width=650&lines=Human-Computer+Interaction;Serious+XR;3D+User+Interfaces;Accessibility+and+Assistive+Technologies;Generative+AI+in+Extended+Reality" alt="Typing SVG" /></a>
-</div>
+
 
 <hr style="margin-top: 8px; margin-bottom: 24px;">
 
