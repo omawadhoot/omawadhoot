@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-omawadhoot18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://omawadhoot.me/assets/Om-Awadhoot-Resume.pdf)
 
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=32&duration=2000&pause=800&color=BD93F9&center=true&vCenter=true&width=650&lines=Human-Computer+Interaction;Serious+XR;3D+User+Interfaces;Accessibility+and+Assistive+Technologies;Generative+AI+in+Extended+Reality" alt="Typing SVG" /></a>
 
 </div>
@@ -25,4 +24,3 @@ Recently completed a research internship as a **Research Intern at the HCI Lab, 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,blender,firebase,react,nodejs,threejs,html,js,mysql,linux,java,vscode,python,git,github,figma&theme=dark)](https://skillicons.dev)
-</div>
