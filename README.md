@@ -21,31 +21,4 @@ Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applic
 
 Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
 
-## Technical Stack
-
-```
-XR & Spatial Computing    Meta Quest 3 · Meta XR Core SDK · OpenXR · Vuforia Engine · Hand Tracking
-Game Engines              Unity 6 / LTS · C# · Shader Graph · URP · Spatial Audio
-Languages                 C# · C++ · Python · TypeScript · JavaScript
-Web & Frontend            Astro · React · Node.js · HTML · CSS · Vercel
-3D & Design               Blender · 3D Modeling · Rigging · UV Mapping
-Tools & Platforms         Git · GitHub · Android SDK · Visual Studio · Rider
-```
-
----
-
-## Open To
-
-- 🧪 XR / Spatial Computing research collaborations
-- 💼 Unity XR engineering roles (full-time or internship)
-- 🤝 Open-source contributions to XR frameworks and human-computer interaction tooling
-
----
-
-<div align="center">
-
-**[🌐 Portfolio](https://omawadhoot.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/om-awadhoot/) &nbsp;·&nbsp; [📄 Resume](https://omawadhoot.com/assets/Om-Awadhoot-Resume.pdf)**
-
-*"Developing the spatial interfaces that define how humans interact with digital worlds."*
-
 </div>
