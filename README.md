@@ -13,7 +13,7 @@
 
 </div>
 
----
+<hr style="margin-top: 8px; margin-bottom: 24px;">
 
 ## About Me
 
