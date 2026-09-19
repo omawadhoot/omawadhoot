@@ -35,22 +35,6 @@ Tools & Platforms         Git · GitHub · Android SDK · Visual Studio · Rider
 
 ---
 
-## Research & Publications
-
-**Homewise Vision: Augmented Reality System for Real-Time Floor Plan Spatialization and Cost Estimation**  
-*International Research Journal of Engineering and Technology (IRJET)*  
-→ [View Project](https://github.com/omawadhoot/HomewiseVision) &nbsp;·&nbsp; [Live Demo](https://homewise-vision-prod.vercel.app/)
-
----
-
-## Experience
-
-**Research Intern** — HCI Lab, Indian Institute of Information Technology Sri City *(2024 – Present)*  
-- Developing *MRConsultation*, an asymmetric MR teleconsultation system for preoperative surgical workflows  
-- Researching spatial interaction modalities, hand tracking accuracy, and asynchronous MR communication paradigms
-
----
-
 ## Open To
 
 - 🧪 XR / Spatial Computing research collaborations
