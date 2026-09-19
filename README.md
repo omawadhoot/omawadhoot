@@ -22,47 +22,6 @@ Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applic
 
 Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### MRConsultation
-**Asymmetric Mixed Reality Teleconsultation**
-
-<img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/mrc-mr-1.png" alt="MRConsultation — Patient App" width="100%" />
-
-An asynchronous, asymmetric MR system that lets patients annotate AI-synthesized 3D organ models with voice and spatial text notes via hand tracking on Meta Quest 3. Surgeons review all annotations through a dedicated physician web portal — giving them full spatial preoperative context before the operating table.
-
-`Meta Quest 3` &nbsp; `Unity 6` &nbsp; `Meta XR SDK` &nbsp; `Hand Tracking` &nbsp; `C#`
-
-**🔴 Active Research &nbsp;·&nbsp; HCI Lab, IIIT Sri City**
-
-[**View Project →**](https://omawadhoot.com/projects/mr-consultation)
-
-</td>
-<td width="50%" valign="top">
-
-### Homewise Vision
-**AR Blueprint-to-3D Home Visualization**
-
-<img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/hwv-scan.png" alt="Homewise Vision — AR Blueprint Scan" width="100%" />
-
-Mobile AR application that transforms 2D architectural floor plans into full-scale, walkable 3D home models using marker-based image tracking. Features real-time material selection and live construction cost estimation generated on the fly.
-
-Published in **IRJET (International Research Journal of Engineering & Technology).**
-
-`Unity` &nbsp; `Vuforia Engine` &nbsp; `C#` &nbsp; `Android` &nbsp; `AR`
-
-[**GitHub**](https://github.com/omawadhoot/HomewiseVision) &nbsp;·&nbsp; [**Live Demo →**](https://homewise-vision-prod.vercel.app/)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Technical Stack
 
 ```
