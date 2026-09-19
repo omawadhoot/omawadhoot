@@ -22,18 +22,6 @@ Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applic
 
 Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
 
----
-
-## Current Focus
-
-| | |
-|---|---|
-| 🔬 **Active Research** | Asymmetric MR teleconsultation — spatial patient–surgeon communication via Meta Quest 3 hand tracking |
-| 🏛️ **Leadership** | Founding Chairperson, **GHRCE ACM Student Chapter** (International affiliation, 2025–Present) |
-| 🎓 **Education** | B.Tech Information Technology, GH Raisoni College of Engineering &nbsp;·&nbsp; **8.3 CGPA** |
-
----
-
 ## Featured Projects
 
 <table>
