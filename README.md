@@ -10,7 +10,6 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://omawadhoot.com/assets/Om-Awadhoot-Resume.pdf)
 
 *Building high-fidelity spatial computing systems and intuitive human-computer interfaces.*<br/>
-*Based in Nagpur, India.*
 
 </div>
 
