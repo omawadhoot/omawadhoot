@@ -1,29 +1,66 @@
-<h1 align="center">Hi 👋, I'm Om Awadhoot</h1>
-<h3 align="center">A passionate Unity developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Unity Projects**
+# Om Awadhoot
+### XR Developer · HCI Researcher · Spatial Computing
 
-- 🌱 I’m currently learning **ReactJS , Spring Boot**
+[![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://your-domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--awadhoot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awadhoot/)
+[![Email](https://img.shields.io/badge/Contact-omawadhoot18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
 
-- 💬 Ask me about **Unity3D and Game Development**
-
-- 📫 How to reach me **omawadhoot@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om-awadhoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-awadhoot" height="30" width="40" /></a>
+<p align="center">
+  Building high-fidelity spatial computing systems and intuitive human-computer interfaces.<br />
+  Specializing in Meta Quest 3, hand tracking, asymmetric mixed reality, and real-time 3D simulation.
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="50" height="50"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" alt="firebase" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
 
+</div>
 
+---
+
+### 🔭 Current Focus & Leadership
+
+- 🔬 **Research Intern** at **HCI Lab, IIIT Sri City** — Researching asymmetric MR teleconsultation systems for preoperative surgical review.
+- 🏛️ **Founding Chairperson** at **GHRCE ACM Student Chapter** — Chartered chapter, leading technical workshops, hackathons, and community engineering initiatives.
+- 🎓 **B.Tech in Information Technology** at **GH Raisoni College of Engineering** (8.3 CGPA).
+
+---
+
+### 🚀 Featured Spatial Computing Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">MRConsultation</h3>
+      <p align="center"><b>Asymmetric Mixed Reality Teleconsultation</b></p>
+      <!-- Tip: Replace with a clean 5-second GIF or screenshot from /assets/mrc-mr-1.png -->
+      <img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/mrc-mr-1.png" alt="MRConsultation Preview" width="100%" />
+      <p>
+        Enables patients to spatially annotate AI-synthesized 3D anatomical models using voice and hand tracking on Meta Quest 3, giving surgeons full preoperative context via a physician web portal.
+      </p>
+      <p>
+        <code>Meta Quest 3</code> · <code>Unity 6</code> · <code>Meta XR SDK</code> · <code>Hand Tracking</code>
+      </p>
+      <p>
+        <a href="https://github.com/omawadhoot/MRConsultation"><b>Explore Repository ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Homewise Vision</h3>
+      <p align="center"><b>AR Blueprint-to-3D Home Visualization</b></p>
+      <img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/hwv-scan.png" alt="Homewise Vision Preview" width="100%" />
+      <p>
+        Mobile AR application transforming 2D architectural blueprints into full-scale 3D walkable models with real-time material and cost estimation. Published in <b>IRJET</b>.
+      </p>
+      <p>
+        <code>Unity</code> · <code>Vuforia Engine</code> · <code>C#</code> · <code>Android AR</code>
+      </p>
+      <p>
+        <a href="https://github.com/omawadhoot/HomewiseVision"><b>GitHub</b></a> · 
+        <a href="https://homewise-vision-prod.vercel.app/"><b>Live Demo ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Stack & Tooling
