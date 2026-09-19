@@ -4,7 +4,7 @@
 
 **XR Developer &nbsp;·&nbsp; HCI Researcher &nbsp;·&nbsp; Spatial Computing**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot.com-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://omawadhoot.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot.me-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://omawadhoot.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--awadhoot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awadhoot/)
 [![Email](https://img.shields.io/badge/Email-omawadhoot18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://omawadhoot.me/assets/Om-Awadhoot-Resume.pdf)
