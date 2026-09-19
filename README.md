@@ -1,67 +1,123 @@
 <div align="center">
+
+<img src="https://omawadhoot.com/assets/om-headshot.png" width="120" style="border-radius:50%" alt="Om Awadhoot" />
+
 # Om Awadhoot
-### XR Developer · HCI Researcher · Spatial Computing
-[![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://your-domain.com)
+
+**XR Developer &nbsp;·&nbsp; HCI Researcher &nbsp;·&nbsp; Spatial Computing**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot.com-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://omawadhoot.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--awadhoot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awadhoot/)
-[![Email](https://img.shields.io/badge/Contact-omawadhoot18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
-<p align="center">
-  Building high-fidelity spatial computing systems and intuitive human-computer interfaces.<br />
-  Specializing in Meta Quest 3, hand tracking, asymmetric mixed reality, and real-time 3D simulation.
-</p>
+[![Email](https://img.shields.io/badge/Email-omawadhoot18%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omawadhoot18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://omawadhoot.com/assets/Om-Awadhoot-Resume.pdf)
+
+*Building high-fidelity spatial computing systems and intuitive human-computer interfaces.*<br/>
+*Based in Nagpur, India.*
+
 </div>
+
 ---
-### 🔭 Current Focus & Leadership
-- 🔬 **Research Intern** at **HCI Lab, IIIT Sri City** — Researching asymmetric MR teleconsultation systems for preoperative surgical review.
-- 🏛️ **Founding Chairperson** at **GHRCE ACM Student Chapter** — Chartered chapter, leading technical workshops, hackathons, and community engineering initiatives.
-- 🎓 **B.Tech in Information Technology** at **GH Raisoni College of Engineering** (8.3 CGPA).
+
+## About Me
+
+Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applications on **Meta Quest 3**, HoloLens, and Magic Leap. I focus on taking XR features from raw prototype through performance-tuned production builds — bridging the gap between immersive technology and real-world clinical and enterprise use cases.
+
+Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
+
 ---
-### 🚀 Featured Spatial Computing Projects
+
+## Current Focus
+
+| | |
+|---|---|
+| 🔬 **Active Research** | Asymmetric MR teleconsultation — spatial patient–surgeon communication via Meta Quest 3 hand tracking |
+| 🏛️ **Leadership** | Founding Chairperson, **GHRCE ACM Student Chapter** (International affiliation, 2025–Present) |
+| 🎓 **Education** | B.Tech Information Technology, GH Raisoni College of Engineering &nbsp;·&nbsp; **8.3 CGPA** |
+
+---
+
+## Featured Projects
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">MRConsultation</h3>
-      <p align="center"><b>Asymmetric Mixed Reality Teleconsultation</b></p>
-      <!-- Tip: Replace with a clean 5-second GIF or screenshot from /assets/mrc-mr-1.png -->
-      <img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/mrc-mr-1.png" alt="MRConsultation Preview" width="100%" />
-      <p>
-        Enables patients to spatially annotate AI-synthesized 3D anatomical models using voice and hand tracking on Meta Quest 3, giving surgeons full preoperative context via a physician web portal.
-      </p>
-      <p>
-        <code>Meta Quest 3</code> · <code>Unity 6</code> · <code>Meta XR SDK</code> · <code>Hand Tracking</code>
-      </p>
-      <p>
-        <a href="https://github.com/omawadhoot/MRConsultation"><b>Explore Repository ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Homewise Vision</h3>
-      <p align="center"><b>AR Blueprint-to-3D Home Visualization</b></p>
-      <img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/hwv-scan.png" alt="Homewise Vision Preview" width="100%" />
-      <p>
-        Mobile AR application transforming 2D architectural blueprints into full-scale 3D walkable models with real-time material and cost estimation. Published in <b>IRJET</b>.
-      </p>
-      <p>
-        <code>Unity</code> · <code>Vuforia Engine</code> · <code>C#</code> · <code>Android AR</code>
-      </p>
-      <p>
-        <a href="https://github.com/omawadhoot/HomewiseVision"><b>GitHub</b></a> · 
-        <a href="https://homewise-vision-prod.vercel.app/"><b>Live Demo ↗</b></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### MRConsultation
+**Asymmetric Mixed Reality Teleconsultation**
+
+<img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/mrc-mr-1.png" alt="MRConsultation — Patient App" width="100%" />
+
+An asynchronous, asymmetric MR system that lets patients annotate AI-synthesized 3D organ models with voice and spatial text notes via hand tracking on Meta Quest 3. Surgeons review all annotations through a dedicated physician web portal — giving them full spatial preoperative context before the operating table.
+
+`Meta Quest 3` &nbsp; `Unity 6` &nbsp; `Meta XR SDK` &nbsp; `Hand Tracking` &nbsp; `C#`
+
+**🔴 Active Research &nbsp;·&nbsp; HCI Lab, IIIT Sri City**
+
+[**View Project →**](https://omawadhoot.com/projects/mr-consultation)
+
+</td>
+<td width="50%" valign="top">
+
+### Homewise Vision
+**AR Blueprint-to-3D Home Visualization**
+
+<img src="https://raw.githubusercontent.com/omawadhoot/om-portfolio/main/public/assets/hwv-scan.png" alt="Homewise Vision — AR Blueprint Scan" width="100%" />
+
+Mobile AR application that transforms 2D architectural floor plans into full-scale, walkable 3D home models using marker-based image tracking. Features real-time material selection and live construction cost estimation generated on the fly.
+
+Published in **IRJET (International Research Journal of Engineering & Technology).**
+
+`Unity` &nbsp; `Vuforia Engine` &nbsp; `C#` &nbsp; `Android` &nbsp; `AR`
+
+[**GitHub**](https://github.com/omawadhoot/HomewiseVision) &nbsp;·&nbsp; [**Live Demo →**](https://homewise-vision-prod.vercel.app/)
+
+</td>
+</tr>
 </table>
----
-### 🛠️ Technical Stack & Tooling
-XR & Spatial │ Meta Quest 3, Meta XR Core SDK, OpenXR, Vuforia Engine, Hand Tracking Game Engines │ Unity 6 / Unity LTS (C#), Blender (3D Modeling & Rigging) Languages │ C#, C++, Python, TypeScript, HTML/CSS Web & Fullstack │ Astro, React, Node.js, Vercel Systems & Tools │ Git/GitHub, Android SDK, Spatial Audio, Shader Graph
-
-
 
 ---
-### 📄 Research & Publications
-- **Homewise Vision: Augmented Reality System for Real-Time Floor Plan Spatialization and Cost Estimation**  
-  *Published in International Research Journal of Engineering and Technology (IRJET)*  
-  [Read Paper / View Project](https://github.com/omawadhoot/HomewiseVision)
+
+## Technical Stack
+
+```
+XR & Spatial Computing    Meta Quest 3 · Meta XR Core SDK · OpenXR · Vuforia Engine · Hand Tracking
+Game Engines              Unity 6 / LTS · C# · Shader Graph · URP · Spatial Audio
+Languages                 C# · C++ · Python · TypeScript · JavaScript
+Web & Frontend            Astro · React · Node.js · HTML · CSS · Vercel
+3D & Design               Blender · 3D Modeling · Rigging · UV Mapping
+Tools & Platforms         Git · GitHub · Android SDK · Visual Studio · Rider
+```
+
 ---
+
+## Research & Publications
+
+**Homewise Vision: Augmented Reality System for Real-Time Floor Plan Spatialization and Cost Estimation**  
+*International Research Journal of Engineering and Technology (IRJET)*  
+→ [View Project](https://github.com/omawadhoot/HomewiseVision) &nbsp;·&nbsp; [Live Demo](https://homewise-vision-prod.vercel.app/)
+
+---
+
+## Experience
+
+**Research Intern** — HCI Lab, Indian Institute of Information Technology Sri City *(2024 – Present)*  
+- Developing *MRConsultation*, an asymmetric MR teleconsultation system for preoperative surgical workflows  
+- Researching spatial interaction modalities, hand tracking accuracy, and asynchronous MR communication paradigms
+
+---
+
+## Open To
+
+- 🧪 XR / Spatial Computing research collaborations
+- 💼 Unity XR engineering roles (full-time or internship)
+- 🤝 Open-source contributions to XR frameworks and human-computer interaction tooling
+
+---
+
 <div align="center">
-  <sub>Designed with precision · Open to XR Engineering roles, HCI Research collaborations, and Spatial Computing projects.</sub>
+
+**[🌐 Portfolio](https://omawadhoot.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/om-awadhoot/) &nbsp;·&nbsp; [📄 Resume](https://omawadhoot.com/assets/Om-Awadhoot-Resume.pdf)**
+
+*"Developing the spatial interfaces that define how humans interact with digital worlds."*
+
 </div>
