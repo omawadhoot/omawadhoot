@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://omawadhoot.com/assets/om-headshot.png" width="120" style="border-radius:50%" alt="Om Awadhoot" />
-
 # Om Awadhoot
 
 **XR Developer &nbsp;·&nbsp; HCI Researcher &nbsp;·&nbsp; Spatial Computing**
