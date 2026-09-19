@@ -2,7 +2,7 @@
 
 # Om Awadhoot
 
-**XR Developer &nbsp;·&nbsp; HCI Researcher &nbsp;·&nbsp; Spatial Computing**
+**XR Developer &nbsp;·&nbsp; HCI Researcher &nbsp;
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-om.awadhoot.me-0A84FF?style=flat-square&logo=vercel&logoColor=white)](https://omawadhoot.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-om--awadhoot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-awadhoot/)
