@@ -12,7 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=32&duration=2000&pause=800&color=BD93F9&center=true&vCenter=true&width=650&lines=Human-Computer+Interaction;Serious+XR;3D+User+Interfaces;Accessibility+and+Assistive+Technologies;Generative+AI+in+Extended+Reality)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## About Me
