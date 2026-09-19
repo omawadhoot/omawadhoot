@@ -14,8 +14,6 @@
 
 <hr style="margin-top: 8px; margin-bottom: 24px;">
 
-## About Me
-
 Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applications on **Meta Quest 3**, HoloLens, and Magic Leap. I focus on taking XR features from raw prototype through performance-tuned production builds, bridging the gap between immersive technology and real-world clinical and enterprise use cases.
 
 Recently completed a research internship as a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
