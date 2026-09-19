@@ -22,4 +22,4 @@ Recently completed a research internship as a **Research Intern at the HCI Lab, 
 
 ## My daily companions :)
 
-Languages : [![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,blender,firebase,react,nodejs,threejs,html,js,mysql,linux,java,vscode,python,git,github,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,rider,blender,firebase,react,nodejs,threejs,html,js,mysql,linux,java,vscode,python,git,github,figma&theme=dark)](https://skillicons.dev)
