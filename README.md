@@ -21,7 +21,7 @@ Unity XR developer with **2+ years** shipping cross-platform AR / VR / MR applic
 
 Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmetric mixed-reality communication and preoperative surgical consultation systems.
 
-## Skills
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </div>
