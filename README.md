@@ -23,5 +23,5 @@ Currently a **Research Intern at the HCI Lab, IIIT Sri City**, exploring asymmet
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,react,threejs,figma&theme=light)](https://skillicons.dev)
 </div>
